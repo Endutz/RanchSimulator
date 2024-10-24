@@ -1,10 +1,10 @@
 # RanchSimulator
-###RanchSimulator SaveFile Pentru Host nou in fiecare sesiune###
+###RanchSimulator SaveFile Pentru Host nou in fiecare sesiune
 Adauga file-ul din AppData\Local\Ranch_Simulator\Saved\SaveGames ca nou folder in proiect de fiecare data cand s-a terminat joaca daca ai fost host
 
 
 
-###RanchSimulator SaveFile pentru Host nou în fiecare sesiune###
+###RanchSimulator SaveFile pentru Host nou în fiecare sesiune
 
 Pentru a crea un folder nou, dă click pe Add file în dreapta sus.
 Din drop-down-ul care apare, selectează Create new file.
@@ -16,7 +16,7 @@ După ce ai încărcat fișierul de salvare în noul folder creat de tine, șter
 
 
 
-###Pentru a juca cu ultimul save###
+###Pentru a juca cu ultimul save
 
 Pentru a descărca un folder din GitHub, navighează la repository-ul dorit și accesați folderul cu ultimul save existent.
 Copiază URL-ul folderului respectiv.
